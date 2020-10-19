@@ -1,2 +1,2 @@
 # FM Synthesis
- Interactive FM Synthesis example created from Jupyter Notebook
+ Interactive FM Synthesis example created from Jupyter Notebook using nbinteract
